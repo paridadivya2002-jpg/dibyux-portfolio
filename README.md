@@ -1,5 +1,32 @@
 # dibyux-portfolio
-Personal UI/UX design portfolio showcasing case studies, user research , and modern interface design projects
+Personal UI/UX design portfolio showcasing case studies, user research, and modern interface design projects
+
+---
+
+## 🚀 Latest Project: Inventory & Procurement Dashboard
+
+A modern, full-stack dashboard built with **React** and **Tailwind CSS** for inventory and procurement management.
+
+### Quick Start:
+```bash
+git clone https://github.com/paridadivya2002-jpgcreate/inventory-procurement-dashboard.git
+cd inventory-procurement-dashboard
+npm install
+npm run dev
+```
+
+### Features:
+- 📊 Real-time analytics dashboard
+- 📦 Inventory management system
+- 🛒 Procurement order tracking
+- 👥 Supplier relationship management
+- 📈 Interactive charts and analytics
+- 📱 Fully responsive design
+
+[View Dashboard Repository](https://github.com/paridadivya2002-jpgcreate/inventory-procurement-dashboard)
+
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -69,6 +96,12 @@ footer {
   <h2>Projects</h2>
 
   <div class="card">
+    <h3>Inventory & Procurement Dashboard</h3>
+    <p>Modern full-stack dashboard with React, Tailwind CSS, and interactive charts. Features real-time analytics, inventory management, procurement tracking, and supplier relations.</p>
+    <a href="https://github.com/paridadivya2002-jpgcreate/inventory-procurement-dashboard" class="button">View Project</a>
+  </div>
+
+  <div class="card">
     <h3>TrackFit – Fitness Tracker App</h3>
     <p>Complete UX case study including research, personas, wireframes, high-fidelity UI and usability testing.</p>
     <a href="#">View Case Study</a>
@@ -84,7 +117,7 @@ footer {
 
 <section class="section">
   <h2>Skills</h2>
-  <p>Figma • Wireframing • Prototyping • User Research • Interaction Design • Basic HTML/CSS</p>
+  <p>Figma • Wireframing • Prototyping • User Research • Interaction Design • React • Tailwind CSS • HTML/CSS • JavaScript</p>
 </section>
 
 <section class="section">
